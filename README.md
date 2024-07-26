@@ -1,8 +1,12 @@
-# React + Vite
+# Basic Guide
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple web app that illustrates file upload. The app accepts images with the extensions `jpg`, `jpeg`, `png` and `svg`.The app the utilizes the 
+`Cloudinary`platform which accepts the uploaded images
 
-Currently, two official plugins are available:
+https://cloudinary.com/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is provides a very effective way of uploading files and retieving them
+
+# Usage in Real-life #
+This application can be used in e-commerce websites, when uploading profile images -(In sign up forms) or on any other applications that requires users to upload images
+
